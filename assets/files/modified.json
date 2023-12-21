@@ -1,0 +1,857 @@
+[
+  {
+    "infinitief": "aandoen",
+    "imperfectum": {
+      "singular": "deed aan",
+      "plural": "deden aan",
+      "complete": "deed aan / deden aan"
+    },
+    "perfectum": "(hebben) aangedaan"
+  },
+  {
+    "infinitief": "aankomen",
+    "imperfectum": {
+      "singular": "kwam aan",
+      "plural": "kwamen aan",
+      "complete": "kwam aan / kwamen aan"
+    },
+    "perfectum": "(zijn) aangekomen"
+  },
+  {
+    "infinitief": "afwassen",
+    "imperfectum": {
+      "singular": "waste af",
+      "plural": "wasten af",
+      "complete": "waste af / wasten af"
+    },
+    "perfectum": "(hebben) afgewassen"
+  },
+  {
+    "infinitief": "bakken",
+    "imperfectum": {
+      "singular": "bakte",
+      "plural": "bakten",
+      "complete": "bakte / bakten"
+    },
+    "perfectum": "(hebben) gebakken"
+  },
+  {
+    "infinitief": "beginnen",
+    "imperfectum": {
+      "singular": "begon",
+      "plural": "begonnen",
+      "complete": "begon / begonnen"
+    },
+    "perfectum": "(zijn) begonnen"
+  },
+  {
+    "infinitief": "begrijpen",
+    "imperfectum": {
+      "singular": "begreep",
+      "plural": "begrepen",
+      "complete": "begreep / begrepen"
+    },
+    "perfectum": "(hebben) begrepen"
+  },
+  {
+    "infinitief": "behangen",
+    "imperfectum": {
+      "singular": "behing",
+      "plural": "behingen",
+      "complete": "behing / behingen"
+    },
+    "perfectum": "(hebben) behangen"
+  },
+  {
+    "infinitief": "bewegen",
+    "imperfectum": {
+      "singular": "bewoog",
+      "plural": "bewogen",
+      "complete": "bewoog / bewogen"
+    },
+    "perfectum": "(hebben) bewogen"
+  },
+  {
+    "infinitief": "bezoeken",
+    "imperfectum": {
+      "singular": "bezocht",
+      "plural": "bezochten",
+      "complete": "bezocht / bezochten"
+    },
+    "perfectum": "(hebben) bezocht"
+  },
+  {
+    "infinitief": "bijten",
+    "imperfectum": {
+      "singular": "beet",
+      "plural": "beten",
+      "complete": "beet / beten"
+    },
+    "perfectum": "(hebben) gebeten"
+  },
+  {
+    "infinitief": "blazen",
+    "imperfectum": {
+      "singular": "blies",
+      "plural": "bliezen",
+      "complete": "blies / bliezen"
+    },
+    "perfectum": "(hebben) geblazen"
+  },
+  {
+    "infinitief": "blijven",
+    "imperfectum": {
+      "singular": "bleef",
+      "plural": "bleven",
+      "complete": "bleef / bleven"
+    },
+    "perfectum": "(zijn) gebleven"
+  },
+  {
+    "infinitief": "breken",
+    "imperfectum": {
+      "singular": "brak",
+      "plural": "braken",
+      "complete": "brak / braken"
+    },
+    "perfectum": "(hebben) gebroken"
+  },
+  {
+    "infinitief": "brengen",
+    "imperfectum": {
+      "singular": "bracht",
+      "plural": "brachten",
+      "complete": "bracht / brachten"
+    },
+    "perfectum": "(hebben) gebracht"
+  },
+  {
+    "infinitief": "denken",
+    "imperfectum": {
+      "singular": "dacht",
+      "plural": "dachten",
+      "complete": "dacht / dachten"
+    },
+    "perfectum": "(hebben) gedacht"
+  },
+  {
+    "infinitief": "doen",
+    "imperfectum": {
+      "singular": "deed",
+      "plural": "deden",
+      "complete": "deed / deden"
+    },
+    "perfectum": "(hebben) gedaan"
+  },
+  {
+    "infinitief": "dragen",
+    "imperfectum": {
+      "singular": "droeg",
+      "plural": "droegen",
+      "complete": "droeg / droegen"
+    },
+    "perfectum": "(hebben) gedragen"
+  },
+  {
+    "infinitief": "drinken",
+    "imperfectum": {
+      "singular": "dronk",
+      "plural": "dronken",
+      "complete": "dronk / dronken"
+    },
+    "perfectum": "(hebben) gedronken"
+  },
+  {
+    "infinitief": "eten",
+    "imperfectum": {
+      "singular": "at",
+      "plural": "aten",
+      "complete": "at / aten"
+    },
+    "perfectum": "(hebben) gegeten"
+  },
+  {
+    "infinitief": "gaan",
+    "imperfectum": {
+      "singular": "ging",
+      "plural": "gingen",
+      "complete": "ging / gingen"
+    },
+    "perfectum": "(zijn) gegaan"
+  },
+  {
+    "infinitief": "genezen",
+    "imperfectum": {
+      "singular": "genas",
+      "plural": "genazen",
+      "complete": "genas / genazen"
+    },
+    "perfectum": "(hebben) genezen"
+  },
+  {
+    "infinitief": "geven",
+    "imperfectum": {
+      "singular": "gaf",
+      "plural": "gaven",
+      "complete": "gaf / gaven"
+    },
+    "perfectum": "(hebben) gegeven"
+  },
+  {
+    "infinitief": "gieten",
+    "imperfectum": {
+      "singular": "goot",
+      "plural": "goten",
+      "complete": "goot / goten"
+    },
+    "perfectum": "(hebben) gegoten"
+  },
+  {
+    "infinitief": "hangen",
+    "imperfectum": {
+      "singular": "hing",
+      "plural": "hingen",
+      "complete": "hing / hingen"
+    },
+    "perfectum": "(hebben) gehangen"
+  },
+  {
+    "infinitief": "hebben",
+    "imperfectum": {
+      "singular": "had",
+      "plural": "hadden",
+      "complete": "had / hadden"
+    },
+    "perfectum": "(hebben) gehad"
+  },
+  {
+    "infinitief": "helpen",
+    "imperfectum": {
+      "singular": "hielp",
+      "plural": "hielpen",
+      "complete": "hielp / hielpen"
+    },
+    "perfectum": "(hebben) geholpen"
+  },
+  {
+    "infinitief": "houden (van)",
+    "imperfectum": {
+      "singular": "hield",
+      "plural": "hielden",
+      "complete": "hield / hielden"
+    },
+    "perfectum": "(hebben) gehouden"
+  },
+  {
+    "infinitief": "innemen",
+    "imperfectum": {
+      "singular": "nam in",
+      "plural": "namen in",
+      "complete": "nam in / namen in"
+    },
+    "perfectum": "(hebben) ingenomen"
+  },
+  {
+    "infinitief": "kiezen",
+    "imperfectum": {
+      "singular": "koos",
+      "plural": "kozen",
+      "complete": "koos / kozen"
+    },
+    "perfectum": "(hebben) gekozen"
+  },
+  {
+    "infinitief": "kijken",
+    "imperfectum": {
+      "singular": "keek",
+      "plural": "keken",
+      "complete": "keek / keken"
+    },
+    "perfectum": "(hebben) gekeken"
+  },
+  {
+    "infinitief": "komen",
+    "imperfectum": {
+      "singular": "kwam",
+      "plural": "kwamen",
+      "complete": "kwam / kwamen"
+    },
+    "perfectum": "(zijn) gekomen"
+  },
+  {
+    "infinitief": "kopen",
+    "imperfectum": {
+      "singular": "kocht",
+      "plural": "kochten",
+      "complete": "kocht / kochten"
+    },
+    "perfectum": "(hebben) gekocht"
+  },
+  {
+    "infinitief": "krijgen",
+    "imperfectum": {
+      "singular": "kreeg",
+      "plural": "kregen",
+      "complete": "kreeg / kregen"
+    },
+    "perfectum": "(hebben) gekregen"
+  },
+  {
+    "infinitief": "kunnen",
+    "imperfectum": {
+      "singular": "kon",
+      "plural": "konden",
+      "complete": "kon / konden"
+    },
+    "perfectum": "(hebben) gekund"
+  },
+  {
+    "infinitief": "laten",
+    "imperfectum": {
+      "singular": "liet",
+      "plural": "lieten",
+      "complete": "liet / lieten"
+    },
+    "perfectum": "(hebben) gelaten"
+  },
+  {
+    "infinitief": "lezen",
+    "imperfectum": {
+      "singular": "las",
+      "plural": "lazen",
+      "complete": "las / lazen"
+    },
+    "perfectum": "(hebben) gelezen"
+  },
+  {
+    "infinitief": "liggen",
+    "imperfectum": {
+      "singular": "lag",
+      "plural": "lagen",
+      "complete": "lag / lagen"
+    },
+    "perfectum": "(hebben) gelegen"
+  },
+  {
+    "infinitief": "lopen",
+    "imperfectum": {
+      "singular": "liep",
+      "plural": "liepen",
+      "complete": "liep / liepen"
+    },
+    "perfectum": "(hebben/zijn) gelopen"
+  },
+  {
+    "infinitief": "meenemen",
+    "imperfectum": {
+      "singular": "nam mee",
+      "plural": "namen mee",
+      "complete": "nam mee / namen mee"
+    },
+    "perfectum": "(hebben) meegenomen"
+  },
+  {
+    "infinitief": "moeten",
+    "imperfectum": {
+      "singular": "moest",
+      "plural": "moesten",
+      "complete": "moest / moesten"
+    },
+    "perfectum": "(hebben) gemoeten"
+  },
+  {
+    "infinitief": "mogen",
+    "imperfectum": {
+      "singular": "mocht",
+      "plural": "mochten",
+      "complete": "mocht / mochten"
+    },
+    "perfectum": "(hebben) gemogen"
+  },
+  {
+    "infinitief": "nakijken",
+    "imperfectum": {
+      "singular": "keek na",
+      "plural": "keken na",
+      "complete": "keek na / keken na"
+    },
+    "perfectum": "(hebben) nagekeken"
+  },
+  {
+    "infinitief": "nemen",
+    "imperfectum": {
+      "singular": "nam",
+      "plural": "namen",
+      "complete": "nam / namen"
+    },
+    "perfectum": "(hebben) genomen"
+  },
+  {
+    "infinitief": "onderzoeken",
+    "imperfectum": {
+      "singular": "onderzocht",
+      "plural": "onderzochten",
+      "complete": "onderzocht / onderzochten"
+    },
+    "perfectum": "(hebben) onderzocht"
+  },
+  {
+    "infinitief": "ontbijten",
+    "imperfectum": {
+      "singular": "ontbeet",
+      "plural": "ontbeten",
+      "complete": "ontbeet / ontbeten"
+    },
+    "perfectum": "(hebben) ontbeten"
+  },
+  {
+    "infinitief": "opstaan",
+    "imperfectum": {
+      "singular": "stond op",
+      "plural": "stonden op",
+      "complete": "stond op / stonden op"
+    },
+    "perfectum": "(zijn) opgestaan"
+  },
+  {
+    "infinitief": "oversteken",
+    "imperfectum": {
+      "singular": "stak over",
+      "plural": "staken",
+      "complete": "stak over / staken"
+    },
+    "perfectum": "over (zijn) overgestoken"
+  },
+  {
+    "infinitief": "rijden",
+    "imperfectum": {
+      "singular": "reed",
+      "plural": "reden",
+      "complete": "reed / reden"
+    },
+    "perfectum": "(hebben/zijn) gereden"
+  },
+  {
+    "infinitief": "roepen",
+    "imperfectum": {
+      "singular": "riep",
+      "plural": "riepen",
+      "complete": "riep / riepen"
+    },
+    "perfectum": "(hebben) geroepen"
+  },
+  {
+    "infinitief": "scheiden",
+    "imperfectum": {
+      "singular": "scheidde",
+      "plural": "scheidden",
+      "complete": "scheidde / scheidden"
+    },
+    "perfectum": "(zijn) gescheiden"
+  },
+  {
+    "infinitief": "schijnen",
+    "imperfectum": {
+      "singular": "de zon scheen",
+      "plural": "",
+      "complete": "de zon scheen"
+    },
+    "perfectum": "de zon heeft geschenen"
+  },
+  {
+    "infinitief": "schrijven",
+    "imperfectum": {
+      "singular": "schreef",
+      "plural": "schreven",
+      "complete": "schreef / schreven"
+    },
+    "perfectum": "(hebben) geschreven"
+  },
+  {
+    "infinitief": "slapen",
+    "imperfectum": {
+      "singular": "sliep",
+      "plural": "sliepen",
+      "complete": "sliep / sliepen"
+    },
+    "perfectum": "(hebben) geslapen"
+  },
+  {
+    "infinitief": "sluiten",
+    "imperfectum": {
+      "singular": "sloot",
+      "plural": "sloten",
+      "complete": "sloot / sloten"
+    },
+    "perfectum": "(hebben) gesloten"
+  },
+  {
+    "infinitief": "snijden",
+    "imperfectum": {
+      "singular": "sneed",
+      "plural": "sneden",
+      "complete": "sneed / sneden"
+    },
+    "perfectum": "(hebben) gesneden"
+  },
+  {
+    "infinitief": "spreken",
+    "imperfectum": {
+      "singular": "sprak",
+      "plural": "spraken",
+      "complete": "sprak / spraken"
+    },
+    "perfectum": "(hebben) gesproken"
+  },
+  {
+    "infinitief": "springen",
+    "imperfectum": {
+      "singular": "sprong",
+      "plural": "sprongen",
+      "complete": "sprong / sprongen"
+    },
+    "perfectum": "(hebben) gesprongen"
+  },
+  {
+    "infinitief": "staan",
+    "imperfectum": {
+      "singular": "stond",
+      "plural": "stonden",
+      "complete": "stond / stonden"
+    },
+    "perfectum": "(hebben) gestaan"
+  },
+  {
+    "infinitief": "steken",
+    "imperfectum": {
+      "singular": "stak",
+      "plural": "staken",
+      "complete": "stak / staken"
+    },
+    "perfectum": "(hebben) gestoken"
+  },
+  {
+    "infinitief": "sterven",
+    "imperfectum": {
+      "singular": "stierf",
+      "plural": "stierven",
+      "complete": "stierf / stierven"
+    },
+    "perfectum": "(zijn) gestorven"
+  },
+  {
+    "infinitief": "strijken",
+    "imperfectum": {
+      "singular": "streek",
+      "plural": "streken",
+      "complete": "streek / streken"
+    },
+    "perfectum": "(hebben) gestreken"
+  },
+  {
+    "infinitief": "treffen",
+    "imperfectum": {
+      "singular": "trof",
+      "plural": "troffen",
+      "complete": "trof / troffen"
+    },
+    "perfectum": "(hebben) getroffen"
+  },
+  {
+    "infinitief": "trekken",
+    "imperfectum": {
+      "singular": "trok",
+      "plural": "trokken",
+      "complete": "trok / trokken"
+    },
+    "perfectum": "(hebben) getrokken"
+  },
+  {
+    "infinitief": "uitdoen",
+    "imperfectum": {
+      "singular": "deed uit",
+      "plural": "deden uit",
+      "complete": "deed uit / deden uit"
+    },
+    "perfectum": "(hebben) uitgedaan"
+  },
+  {
+    "infinitief": "uitgaan",
+    "imperfectum": {
+      "singular": "ging uit",
+      "plural": "gingen uit",
+      "complete": "ging uit / gingen uit"
+    },
+    "perfectum": "(zijn) uitgegaan"
+  },
+  {
+    "infinitief": "uittrekken",
+    "imperfectum": {
+      "singular": "trok uit",
+      "plural": "trokken uit",
+      "complete": "trok uit / trokken uit"
+    },
+    "perfectum": "(hebben) uitgetrokken"
+  },
+  {
+    "infinitief": "vallen",
+    "imperfectum": {
+      "singular": "viel",
+      "plural": "vielen",
+      "complete": "viel / vielen"
+    },
+    "perfectum": "(zijn) gevallen"
+  },
+  {
+    "infinitief": "varen",
+    "imperfectum": {
+      "singular": "voer",
+      "plural": "voeren",
+      "complete": "voer / voeren"
+    },
+    "perfectum": "(hebben/zijn) gevaren"
+  },
+  {
+    "infinitief": "verbieden",
+    "imperfectum": {
+      "singular": "verbood",
+      "plural": "verboden",
+      "complete": "verbood / verboden"
+    },
+    "perfectum": "(hebben) verboden"
+  },
+  {
+    "infinitief": "vergeten",
+    "imperfectum": {
+      "singular": "vergat",
+      "plural": "vergaten",
+      "complete": "vergat / vergaten"
+    },
+    "perfectum": "(hebben/zijn) vergeten"
+  },
+  {
+    "infinitief": "verkopen",
+    "imperfectum": {
+      "singular": "verkocht",
+      "plural": "verkochten",
+      "complete": "verkocht / verkochten"
+    },
+    "perfectum": "(hebben) verkocht"
+  },
+  {
+    "infinitief": "verliezen",
+    "imperfectum": {
+      "singular": "verloor",
+      "plural": "verloren",
+      "complete": "verloor / verloren"
+    },
+    "perfectum": "(hebben) verloren"
+  },
+  {
+    "infinitief": "verstaan",
+    "imperfectum": {
+      "singular": "verstond",
+      "plural": "verstonden",
+      "complete": "verstond / verstonden"
+    },
+    "perfectum": "(hebben) verstaan"
+  },
+  {
+    "infinitief": "vertrekken",
+    "imperfectum": {
+      "singular": "vertrok",
+      "plural": "vertrokken",
+      "complete": "vertrok / vertrokken"
+    },
+    "perfectum": "(zijn) vertrokken"
+  },
+  {
+    "infinitief": "vervangen",
+    "imperfectum": {
+      "singular": "verving",
+      "plural": "vervingen",
+      "complete": "verving / vervingen"
+    },
+    "perfectum": "(hebben) vervangen"
+  },
+  {
+    "infinitief": "vinden",
+    "imperfectum": {
+      "singular": "vond",
+      "plural": "vonden",
+      "complete": "vond / vonden"
+    },
+    "perfectum": "(hebben) gevonden"
+  },
+  {
+    "infinitief": "vliegen",
+    "imperfectum": {
+      "singular": "vloog",
+      "plural": "vlogen",
+      "complete": "vloog / vlogen"
+    },
+    "perfectum": "(hebben/zijn) gevlogen"
+  },
+  {
+    "infinitief": "voorkomen",
+    "imperfectum": {
+      "singular": "voorkwam",
+      "plural": "voorkwamen",
+      "complete": "voorkwam / voorkwamen"
+    },
+    "perfectum": "(hebben) voorkomen"
+  },
+  {
+    "infinitief": "vragen",
+    "imperfectum": {
+      "singular": "vroeg",
+      "plural": "vroegen",
+      "complete": "vroeg / vroegen"
+    },
+    "perfectum": "(hebben) gevraagd"
+  },
+  {
+    "infinitief": "vriezen",
+    "imperfectum": {
+      "singular": "het vroor",
+      "plural": "",
+      "complete": "het vroor"
+    },
+    "perfectum": "het heeft gevroren"
+  },
+  {
+    "infinitief": "wassen",
+    "imperfectum": {
+      "singular": "waste",
+      "plural": "wasten",
+      "complete": "waste / wasten"
+    },
+    "perfectum": "(hebben) gewassen"
+  },
+  {
+    "infinitief": "wegen",
+    "imperfectum": {
+      "singular": "woog",
+      "plural": "wogen",
+      "complete": "woog / wogen"
+    },
+    "perfectum": "(hebben) gewogen"
+  },
+  {
+    "infinitief": "weten",
+    "imperfectum": {
+      "singular": "wist",
+      "plural": "wisten",
+      "complete": "wist / wisten"
+    },
+    "perfectum": "(hebben) geweten"
+  },
+  {
+    "infinitief": "wijzen",
+    "imperfectum": {
+      "singular": "wees",
+      "plural": "wezen",
+      "complete": "wees / wezen"
+    },
+    "perfectum": "(hebben) gewezen"
+  },
+  {
+    "infinitief": "willen",
+    "imperfectum": {
+      "singular": "wou",
+      "plural": "wilden",
+      "complete": "wou / wilde / wilden"
+    },
+    "perfectum": "(hebben) gewild"
+  },
+  {
+    "infinitief": "winnen",
+    "imperfectum": {
+      "singular": "won",
+      "plural": "wonnen",
+      "complete": "won / wonnen"
+    },
+    "perfectum": "(hebben) gewonnen"
+  },
+  {
+    "infinitief": "worden",
+    "imperfectum": {
+      "singular": "werd",
+      "plural": "werden",
+      "complete": "werd / werden"
+    },
+    "perfectum": "(zijn) geworden"
+  },
+  {
+    "infinitief": "zeggen",
+    "imperfectum": {
+      "singular": "zei",
+      "plural": "zeiden",
+      "complete": "zei / zeiden"
+    },
+    "perfectum": "(hebben) gezegd"
+  },
+  {
+    "infinitief": "zien",
+    "imperfectum": {
+      "singular": "zag",
+      "plural": "zagen",
+      "complete": "zag / zagen"
+    },
+    "perfectum": "(hebben) gezien"
+  },
+  {
+    "infinitief": "zijn",
+    "imperfectum": {
+      "singular": "was",
+      "plural": "waren",
+      "complete": "was / waren"
+    },
+    "perfectum": "(zijn) geweest"
+  },
+  {
+    "infinitief": "zingen",
+    "imperfectum": {
+      "singular": "zong",
+      "plural": "zongen",
+      "complete": "zong / zongen"
+    },
+    "perfectum": "(hebben) gezongen"
+  },
+  {
+    "infinitief": "zitten",
+    "imperfectum": {
+      "singular": "zat",
+      "plural": "zaten",
+      "complete": "zat / zaten"
+    },
+    "perfectum": "(hebben) gezeten"
+  },
+  {
+    "infinitief": "zoeken",
+    "imperfectum": {
+      "singular": "zocht",
+      "plural": "zochten",
+      "complete": "zocht / zochten"
+    },
+    "perfectum": "(hebben) gezocht"
+  },
+  {
+    "infinitief": "zullen",
+    "imperfectum": {
+      "singular": "zou",
+      "plural": "zouden",
+      "complete": "zou / zouden"
+    },
+    "perfectum": ""
+  },
+  {
+    "infinitief": "zwemmen",
+    "imperfectum": {
+      "singular": "zwom",
+      "plural": "zwommen",
+      "complete": "zwom / zwommen"
+    },
+    "perfectum": "(hebben/zijn) gezwommen"
+  }
+]
